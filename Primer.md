@@ -4,4 +4,4 @@ markdown
 **Podebljan tekst** i *iskošen tekst*
 
 - Prva stavka
-- Druga stavka
+- Druga stavka### Nova izmena sa grane novaGrana
